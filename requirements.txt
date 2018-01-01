@@ -8,9 +8,9 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 numpy==1.13.3
-pymessenger==1.0.0
 requests==2.18.4
 requests-toolbelt==0.8.0
 six==1.11.0
 urllib3==1.22
 Werkzeug==0.13
+git+https://github.com/nikhilkumarsingh/pymessenger.git
